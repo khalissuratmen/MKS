@@ -71,6 +71,14 @@ https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 
 ############### ASTROXXX ###############
 
+#EXTINF:-1 tvg-id="611" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
+# http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="611" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Ceria HD (Backup)
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
 #EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
@@ -99,6 +107,12 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="108" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD (Backup)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 
+#EXTINF:-1 tvg-id="404" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo HD
+http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="404" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo HD (Backup)
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="109" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Astro Naura HD
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
@@ -118,9 +132,41 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 #EXTINF:-1 tvg-id="113" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura HD (Backup)
 http://iptv.tvmalaysia.cc:80/737373/737373/6713
 
+############### HINDI  #####################
+
+#EXTINF:-1 tvg-id="201" tvg-name="ASTRO Vaanavil HD" tvg-logo="http://tvmalaysia.cc:80/images/01160a03b56a9adbd2c9384e2260043a.png" group-title="Astro Hindi",ASTRO Vaanavil HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6738
+
+#EXTINF:-1 tvg-id="202" tvg-name="ASTRO Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/3371512e9f93371e840eec878d604870.png" group-title="Astro Hindi",ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6739
+
+#EXTINF:-1 tvg-id="222" tvg-name="ASTRO Colors Tamil" tvg-logo="http://tvmalaysia.cc:80/images/d009936ac07ce93aff60ca243a935867.png" group-title="Astro Hindi",ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/737373/737373/6716
+
+############### CHINEESE ###############
 
 
 
+
+
+############### MOVIES ###############
+
+#EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
+# https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+# https://mediahomes.github.io/assets/hbogo/hbo.m3u8
+# http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO HD (MY)
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax HD
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-id="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax HD (MY)
+http://iptv.tvmalaysia.cc:80/737373/737373/7062
+
+#EXTINF:-1 group-title="Movies" tvg-id="413" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/TZOsc0lY",FOX Movies HD
 
 
 
