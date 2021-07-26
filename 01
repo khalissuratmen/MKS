@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="3600"
 
+#EXTINF:-1 group-title="MKS IPTV" tvg-logo="https://i.pinimg.com/originals/06/88/4c/06884c6f8d44cb3c03ab5e84ee85e593.png",MKS IPTV COPYRIGHT
+
 ############### Olimpik RTM ###############
 
 EXTINF:-1 group-title="Special: Tokyo 2020 Olympics" ch-number="1001" tvg-id="1001" tvg-chno="1001" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",RTM Tokyo 2020 Channel 1 (HD)
@@ -174,9 +176,61 @@ http://iptv.tvmalaysia.cc:80/737373/737373/8838
 #EXTINF:-1 tvg-id="415" group-title="Movies" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies HD
 http://iptv.tvmalaysia.cc:80/737373/737373/8839
 
+#EXTINF:-1 tvg-id="HBOHitsHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
+#EXTINF:-1 tvg-id="HBOHitsHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits (MY)
+http://iptv.tvmalaysia.cc:80/737373/737373/7068
 
+#EXTINF:-1 tvg-id="HBOFamilyHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+# https://mediahomes.github.io/assets/hbogo/family.m3u8
 
+#EXTINF:-1 tvg-id="HBOSignatureHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTINF:-1 tvg-id="RedbyHBO" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/608_1920x1080_HTV.png",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#EXTINF:-1 tvg-id="401" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="Movies",Hits Movies
+http://iptv.tvmalaysia.cc:80/737373/737373/7066
+
+#EXTINF:-1 tvg-id="&FLIXHD" tvg-name="Movies" tvg-logo="https://tinyurl.com/46xbzvdu", group-title="Movies",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="FLIX" tvg-name="Movies" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/flix.png", group-title="Movies",FLIX Movies
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PRIVEHD" tvg-name="Movies" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/10/privehd-logo.jpg" group-title="Movies",&PRIVé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Shaw_Brothers_Logo.jpg",Shaw Brother TV
+http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+
+############### LIFESTYLE & KNOWLEDGE ###############
+
+#EXTINF:-1 tvg-id="551" tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1" group-title="Lifestyle & Knowledge",National Geographic HD
+http://iptv.tvmalaysia.cc:80/737373/737373/7075
+
+#EXTINF:-1 tvg-id="550" tvg-logo="http://tvmalaysia.cc:80/images/e2979414687cca56146fca4a970f9cc3.jpg" group-title="Lifestyle & Knowledge",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/737373/737373/7081
+
+#EXTINF:-1 tvg-id="555" tvg-logo="http://tvmalaysia.cc:80/images/5aa0da4bfe8327c96a0e9193c5e2d75c.png" group-title="Lifestyle & Knowledge",History FHD
+http://iptv.tvmalaysia.cc:80/737373/737373/7079
+
+#EXTINF:-1 tvg-id="552" tvg-logo="http://tvmalaysia.cc:80/images/e52fb22b3dcf6f6ba49cbf9a6818680a.png" group-title="Lifestyle & Knowledge",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/737373/737373/7078
+
+#EXTINF:-1 tvg-id="553" tvg-logo="http://tvmalaysia.cc:80/images/c35254ea8035d16d2a9f793edd26dd3f.png" group-title="Lifestyle & Knowledge",Discovery Asia
+http://iptv.tvmalaysia.cc:80/737373/737373/8856
+  
+#EXTINF:-1 tvg-id="556" tvg-logo="http://tvmalaysia.cc:80/images/441c5d4032843609fda8ea2886e3c205.png" group-title="Lifestyle & Knowledge",Animal Planet
+http://iptv.tvmalaysia.cc:80/737373/737373/7077
+
+#EXTINF:-1 tvg-id="natgeopeople.my" tvg-logo="http://tvmalaysia.cc:80/images/bce173b41e68a5f93990720a40c946e9.jpg" group-title="Lifestyle & Knowledge",NatGeo People HD
+http://iptv.tvmalaysia.cc:80/737373/737373/7080
+  
+###############    ############### 
 
 
 
