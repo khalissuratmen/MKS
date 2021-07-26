@@ -56,11 +56,72 @@ https://github.com/KakLongGarang/hentamsajala/raw/main/8TV.m3u8|Referer=https://
 #EXTINF:-1 group-title="Malaysia" ch-number="149" tvg-id="149" tvg-chno="149" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/2019071607262664255l.png",TV9
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHd6oejuqK2ml3ERCNjZSgUM)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.dailymotion.com
 
+#EXTINF:-1 tvg-id="114" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV AlHijrah HD
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IKIM" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",IKIM TV
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
 #EXTINF:-1 tvg-id="146" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="111" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
 https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+
+############### ASTROXXX ###############
+
+#EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD (Backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
+
+EXTINF:-1 tvg-id="105" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6727
+# http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-id="105" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD (Backup)
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-id="106" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106.png",Astro Oasis HD
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 tvg-id="107" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
+http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+
+#EXTINF:-1 tvg-id="107" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD (Backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
+
+#EXTINF:-1 tvg-id="108" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="108" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD (Backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
+
+#EXTINF:-1 tvg-id="109" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Astro Naura HD
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+# https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
+
+#EXTINF:-1 tvg-id="109" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Astro Naura HD (Backup)
+http://iptv.tvmalaysia.cc:80/737373/737373/6724
+
+#EXTINF:-1 tvg-id="112" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Rania HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+
+#EXTINF:-1 tvg-id="112" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania HD (Backup)
+http://iptv.tvmalaysia.cc:80/737373/737373/6729
+
+#EXTINF:-1 tvg-id="113" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+
+#EXTINF:-1 tvg-id="113" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura HD (Backup)
+http://iptv.tvmalaysia.cc:80/737373/737373/6713
+
+
+
+
+
 
 
 
