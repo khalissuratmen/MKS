@@ -176,6 +176,9 @@ http://iptv.tvmalaysia.cc:80/737373/737373/8838
 #EXTINF:-1 tvg-id="415" group-title="Movies" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png",FOX Action Movies HD
 http://iptv.tvmalaysia.cc:80/737373/737373/8839
 
+#EXTINF:-1 tvg-id="401" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="Movies",Hits Movies
+http://iptv.tvmalaysia.cc:80/737373/737373/7066
+
 #EXTINF:-1 tvg-id="HBOHitsHD" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 
@@ -191,9 +194,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-id="RedbyHBO" group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/608_1920x1080_HTV.png",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-
-#EXTINF:-1 tvg-id="401" tvg-logo="http://tvmalaysia.cc:80/images/b2edde7e3fcfc5cf87738f80ce5e1336.png" group-title="Movies",Hits Movies
-http://iptv.tvmalaysia.cc:80/737373/737373/7066
 
 #EXTINF:-1 tvg-id="&FLIXHD" tvg-name="Movies" tvg-logo="https://tinyurl.com/46xbzvdu", group-title="Movies",&FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
