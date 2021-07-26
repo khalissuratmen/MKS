@@ -233,6 +233,10 @@ http://iptv.tvmalaysia.cc:80/737373/737373/7080
   
 ###############  SPORTS  ############### 
 
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+# https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+
 #EXTINF:-1 tvg-id="801" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Astro Arena HD
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
