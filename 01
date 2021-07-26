@@ -295,16 +295,172 @@ http://iptv.tvmalaysia.cc:80/321456/321456/6712
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 # http://iptv.tvmalaysia.cc:80/737373/737373/6712
 
+#EXTINF:-1 tvg-id="821" tvg-logo="http://tvmalaysia.cc:80/images/fe2f1947f90a1fca6f1d3c8e2f2e8054.jpg" group-title="Sports",WWE Network
+http://iptv.tvmalaysia.cc:80/737373/737373/6849
+
+#EXTINF:-1 tvg-id="823" tvg-logo="http://tvmalaysia.cc:80/images/98991a2582751895902809093633b033.png" group-title="Sports",Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/737373/737373/6821
+
+#EXTINF:-1 tvg-id="822" tvg-logo="http://tvmalaysia.cc:80/images/1eb1cee8b5e1c96e92721e3ca5ab59d5.jpg" group-title="Sports",Golf Channel HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6796
+
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 # https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-id="815" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
-
+http://iptv.tvmalaysia.cc:80/737373/737373/6793
 
 #EXTINF:-1 group-title="Sports" tvg-id="816" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
-
+http://iptv.tvmalaysia.cc:80/737373/737373/6791
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="817" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6792
+
+############### BEIN SPORTS #################
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 1
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289637
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 2
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289638
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 3
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289639
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 4
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289053
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 5
+http://one.d4k4u.com:8080/fsdfsgfsgs/rGMSeAaH/289054
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports AR 1
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/776
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports AR 2
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/777
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports AR 3
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/778
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports AR 4
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/779
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports AR 5
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/780
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports ENG 1
+http://istars.pro:80/0599655171/HuvOf99spm/223675
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports ENG 2
+http://istars.pro:80/0599655171/HuvOf99spm/223679
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports ENG 3
+http://istars.pro:80/0599655171/HuvOf99spm/223683
+
+############### TSN SPORTS #################
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-1 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/8923
+# http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2287
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1621
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2287
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-2 HD
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2288
+http://iptv.tvmalaysia.cc:80/321456/321456/8924
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1622
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2288
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-3 HD
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2289
+http://iptv.tvmalaysia.cc:80/321456/321456/8925
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1623
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2289
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-4 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/8926
+# http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2290
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1624
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2290
+# http://iptv.tvmalaysia.cc:80/321456/321456/8926
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-5 HD
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2291
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1625
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2291
+# http://portal.alliptvapp.com:8080/613607218194/666579067773/25753
+
+#EXTINF:-1 group-title="SPORTS" tvg-name="|BE| Eleven Sports 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",Eleven Sports 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-name="|BE| Eleven Sports 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png",Eleven Sports 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/960
+# http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39308.ts
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1262
+
+#EXTINF:-1 tvg-id="ESPN2" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/824
+# http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39309.ts
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1274
+
+#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/961
+# http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39312.ts
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1709
+
+#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
+http://important.ydns.eu:25461/FleKsIPtv/QdsrWfghjkZxs23Li/823
+# http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39311.ts
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/95868
+
+#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 5
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39313.ts
+
+#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 6
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39310.ts
+
+#EXTINF:-1 tvg-id="DubaiSports1" group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/91/d9/91/91d991fc0ded44b638841ddb3a65fbe0.png",Dubai Sports 1
+http://portal.alliptvapp.com:8080/613607218194/666579067773/144
+# https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports2" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 2
+http://portal.alliptvapp.com:8080/613607218194/666579067773/145
+# https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports3" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 3
+http://portal.alliptvapp.com:8080/613607218194/666579067773/146
+# https://d3pecoxar1c5xs.cloudfront.net/out/v1/81470e6e34644206a0afea41923f90ef/index_1.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports3" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 4
+https://google-me.cdn.booyah.live/hls/113130/32479811.m3u8
+
+#EXTINF:-1 tvg-id="SportTV1" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",Sport TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SportTV2" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",Sport TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SportTV3" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",Sport TV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SportTV4" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",Sport TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SportTV4" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg",Sport TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV" group-title="SPORTS" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel" group-title="SPORTS" tvg-logo="https://tch.spott2.sportradar.com/assets/img/Tennischannel/TC-logo-green.png",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 tvg-id="NBATV" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV
+http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/109182
+# http://51.91.73.99:25461/usachannel/ngZnG8PD5i/18152
 
 
