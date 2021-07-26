@@ -231,7 +231,80 @@ http://iptv.tvmalaysia.cc:80/737373/737373/7077
 #EXTINF:-1 tvg-id="natgeopeople.my" tvg-logo="http://tvmalaysia.cc:80/images/bce173b41e68a5f93990720a40c946e9.jpg" group-title="Lifestyle & Knowledge",NatGeo People HD
 http://iptv.tvmalaysia.cc:80/737373/737373/7080
   
-###############    ############### 
+###############  SPORTS  ############### 
 
+#EXTINF:-1 tvg-id="801" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Astro Arena HD
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
+# http://iptv.tvmalaysia.cc:80/321456/321456/6707
+
+#EXTINF:-1 tvg-id="801" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Astro Arena HD (Backup)
+http://iptv.tvmalaysia.cc:80/737373/737373/6707
+
+#EXTINF:-1 tvg-id="818" group-title="Sports" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png",beIN Sports 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+
+#EXTINF:-1 tvg-id="819" group-title="Sports" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2.png",beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
+
+#EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+# http://iptv.tvmalaysia.cc:80/321456/321456/6708
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+# http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="811" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1(Backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+# http://iptv.tvmalaysia.cc:80/737373/737373/6708
+
+#EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2
+http://iptv.tvmalaysia.cc:80/321456/321456/6710
+# http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+# http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="812" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2(Backup)
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+# http://iptv.tvmalaysia.cc:80/737373/737373/6710
+
+#EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3
+http://iptv.tvmalaysia.cc:80/321456/321456/6711
+# http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+# http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="813" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3(Backup)
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+# http://iptv.tvmalaysia.cc:80/737373/737373/6711
+
+#EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4
+http://iptv.tvmalaysia.cc:80/321456/321456/6712
+# http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+# http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="814" group-title="Sports" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4(Backup)
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+# http://iptv.tvmalaysia.cc:80/737373/737373/6712
+
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+# https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-id="815" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
+
+
+#EXTINF:-1 group-title="Sports" tvg-id="816" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071931352bjn.png",FOX Sports 2 HD
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="817" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
 
 
