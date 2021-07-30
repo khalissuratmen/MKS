@@ -29,12 +29,12 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="101" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 (Backup)
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
-# https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+# https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
 
 #EXTINF:-1 tvg-id="102" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
-# https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
+# https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 
 #EXTINF:-1 tvg-id="102" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 (Backup)
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
