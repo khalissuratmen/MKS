@@ -420,6 +420,39 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6791
 #EXTINF:-1 group-title="Sports" tvg-id="817" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
 http://iptv.tvmalaysia.cc:80/737373/737373/6792
 
+############### TSN SPORTS #################
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-1 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/8923
+# http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2287
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1621
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2287
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-2 HD
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2288
+http://iptv.tvmalaysia.cc:80/321456/321456/8924
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1622
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2288
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-3 HD
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2289
+http://iptv.tvmalaysia.cc:80/321456/321456/8925
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1623
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2289
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-4 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/8926
+# http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2290
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1624
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2290
+# http://iptv.tvmalaysia.cc:80/321456/321456/8926
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-5 HD
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2291
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1625
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2291
+# http://portal.alliptvapp.com:8080/613607218194/666579067773/25753
+
 ############### BEIN SPORTS #################
 
 #EXTINF:-1 tvg-id="BeinSports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 1
@@ -460,39 +493,6 @@ http://istars.pro:80/0599655171/HuvOf99spm/223679
 
 #EXTINF:-1 tvg-id="BeinSports" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports ENG 3
 http://istars.pro:80/0599655171/HuvOf99spm/223683
-
-############### TSN SPORTS #################
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-1 HD
-http://iptv.tvmalaysia.cc:80/321456/321456/8923
-# http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2287
-# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1621
-# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2287
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-2 HD
-http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2288
-http://iptv.tvmalaysia.cc:80/321456/321456/8924
-# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1622
-# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2288
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-3 HD
-http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2289
-http://iptv.tvmalaysia.cc:80/321456/321456/8925
-# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1623
-# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2289
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-4 HD
-http://iptv.tvmalaysia.cc:80/321456/321456/8926
-# http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2290
-# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1624
-# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2290
-# http://iptv.tvmalaysia.cc:80/321456/321456/8926
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-5 HD
-http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2291
-# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1625
-# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2291
-# http://portal.alliptvapp.com:8080/613607218194/666579067773/25753
 
 #EXTINF:-1 group-title="Sports" tvg-name="|BE| Eleven Sports 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",Eleven Sports 1 HD
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
