@@ -3,24 +3,6 @@
 #EXTINF:-1 group-title="MKS IPTV" tvg-logo="https://i.pinimg.com/originals/06/88/4c/06884c6f8d44cb3c03ab5e84ee85e593.png",MKS IPTV COPYRIGHT
 https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
 
-############### Olimpik RTM ###############
-
-#EXTINF:-1 group-title="Special: Tokyo 2020 Olympics" ch-number="1001" tvg-id="1001" tvg-chno="1001" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch1.png",RTM Tokyo 2020 Channel 1 (HD)
-https://rtm-olympic01.secureswiftcontent.com/rtm/olympic01_720.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="Special: Tokyo 2020 Olympics" ch-number="1002" tvg-id="1002" tvg-chno="1002" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch2.png",RTM Tokyo 2020 Channel 2 (HD)
-https://rtm-olympic02.secureswiftcontent.com/rtm/olympic02_720.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="Special: Tokyo 2020 Olympics" ch-number="1003" tvg-id="1003" tvg-chno="1003" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch3.png",RTM Tokyo 2020 Channel 3 (HD)
-https://rtm-olympic03.secureswiftcontent.com/rtm/olympic03_720.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="Special: Tokyo 2020 Olympics" ch-number="1004" tvg-id="1004" tvg-chno="1004" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch4.png",RTM Tokyo 2020 Channel 4 (HD)
-https://rtm-olympic04.secureswiftcontent.com/rtm/olympic04_720.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="Special: Tokyo 2020 Olympics" ch-number="1005" tvg-id="1005" tvg-chno="1005" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tokyo_ch5.png",RTM Tokyo 2020 Channel 5 (HD)
-https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_720.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-
 ############### MYTV ###############
 
 #EXTINF:-1 tvg-id="101" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
@@ -438,25 +420,29 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6792
 ############### TSN SPORTS #################
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-1 HD
-http://iptv.tvmalaysia.cc:80/321456/321456/8923
+http://iptv.tvmalaysia.cc:80/737373/737373/8923
+# http://iptv.tvmalaysia.cc:80/321456/321456/8923
 # http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2287
 # http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1621
 # http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2287
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-2 HD
-http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2288
-http://iptv.tvmalaysia.cc:80/321456/321456/8924
+http://iptv.tvmalaysia.cc:80/737373/737373/8924
+# http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2288
+# http://iptv.tvmalaysia.cc:80/321456/321456/8924
 # http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1622
 # http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2288
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-3 HD
-http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2289
-http://iptv.tvmalaysia.cc:80/321456/321456/8925
+http://iptv.tvmalaysia.cc:80/737373/737373/8925
+# http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2289
+# http://iptv.tvmalaysia.cc:80/321456/321456/8925
 # http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1623
 # http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2289
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-4 HD
-http://iptv.tvmalaysia.cc:80/321456/321456/8926
+http://iptv.tvmalaysia.cc:80/737373/737373/8926
+# http://iptv.tvmalaysia.cc:80/321456/321456/8926
 # http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2290
 # http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1624
 # http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2290
