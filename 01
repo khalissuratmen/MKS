@@ -6,7 +6,8 @@ https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.
 ############### MYTV ###############
 
 #EXTINF:-1 tvg-id="101" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
-https://github.com/196-25-717-6196/Test/raw/main/101-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
+# https://github.com/196-25-717-6196/Test/raw/main/101-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
 # http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
@@ -17,7 +18,8 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 # https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8
 
 #EXTINF:-1 tvg-id="102" group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://github.com/196-25-717-6196/Test/raw/main/102-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
+# https://github.com/196-25-717-6196/Test/raw/main/102-multi.m3u8|Referer=https://rtmklik.rtm.gov.my
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
 
