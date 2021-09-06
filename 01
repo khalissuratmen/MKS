@@ -71,15 +71,17 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://iptv.tvmalaysia.cc:80/737373/737373/6714
 
 #EXTINF:-1 tvg-id="611" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Astro Ceria HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
+http://iptv.tvmalaysia.cc:80/boy1/boy1/6715
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
 # http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-id="611" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",AStro Ceria HD (Backup)
+#EXTINF:-1 tvg-id="611" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611.png",Astro Ceria HD (Backup)
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/boy1/boy1/6730
+# http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png",Astro Ria HD (Backup)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
@@ -91,7 +93,8 @@ http://198.16.106.62:8278/stream/d/Ria/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/737373/737373/6727
 
 #EXTINF:-1 tvg-id="105" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD (Backup)
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/boy1/boy1/6727
+# http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 
 #EXTINF:-1 tvg-id="105" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105.png",Astro Prima HD (Backup)
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -100,7 +103,8 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="107" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/boy1/boy1/6740
+# http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-id="107" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna HD (Backup)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
@@ -109,10 +113,12 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra HD (Backup)
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
+http://iptv.tvmalaysia.cc:80/boy1/boy1/7267
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
 
 #EXTINF:-1 tvg-id="404" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo HD
-http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/boy1/boy1/8872
+#http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="404" group-title="Astro" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404.png",Boo HD (Backup)
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
